@@ -1,1 +1,1 @@
-may watu fast chei mey
+may watu fast pandi chei mey
