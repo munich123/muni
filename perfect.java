@@ -1,1 +1,1 @@
-may watu fast pandi chei mey
+may watu fast gejji chei mey
