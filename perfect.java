@@ -1,2 +1,1 @@
-may watu fast chei mey
-amma mogudu
+may watu fast gejji chei mey
