@@ -1,12 +1,12 @@
 pipeline{
     agent any
     stages{
-        stage("build"){
+        stage("pwd"){
             steps{
                 sh "pwd"
             }
         }
-        stage("crete"){
+        stage("config"){
             steps{
                 sh "touch slave"
             }
