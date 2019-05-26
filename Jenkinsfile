@@ -2,7 +2,7 @@ def muni = 10
 def hema = 20
 def chitti = 30
 
-node('chitti') {
+node('hema') {
     stage('checkout') {
         sh "git checkout happens here"
         echo "hema ${hema}"
